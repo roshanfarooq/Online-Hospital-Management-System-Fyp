@@ -1,0 +1,33 @@
+{
+    "docs": [
+     
+
+      
+        {
+            "doc_id": 4,
+            "name": "Muhammad Roshan",
+            "specialize": "Neurology",
+            "doc_img": "https://i.ibb.co/86xBJSh/04.jpg"
+        },
+        {
+            "doc_id": 5,
+            "name": "Mobashar",
+            "specialize": "Cardiology",
+            "doc_img": "https://i.ibb.co/hWD7NVx/05.jpg"
+        },
+      
+        {
+            "doc_id": 7,
+            "name": "Abbass",
+            "specialize": "Neurology",
+            "doc_img": "https://i.ibb.co/dPtTnys/07.jpg"
+        },
+       
+        {
+            "doc_id": 9,
+            "name": "Saqlain",
+            "specialize": "Medecine",
+            "doc_img": "https://i.pinimg.com/736x/38/62/d4/3862d4aade40a268300175392fe81581.jpg"
+        }
+    ]
+}
